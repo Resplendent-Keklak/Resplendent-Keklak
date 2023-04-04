@@ -1,5 +1,7 @@
-👋 Hi, I’m @Resplendent-Keklak!<br>I’m currently learning advanced SciKitLearn Methods and SQL!<br>📫 Contacts: ericakeklak@gmail.com | +1 (732)-232-7716
-<!---
+👋 Hi, I’m @Resplendent-Keklak, but you can call me literally anything non-feminine whatsoever (e.g. Dick Dastardly)!
+
+If you see me on the streets don't come at me for my low contribution rates. I'm *busy* coddarnit
+<!--
 Resplendent-Keklak/Resplendent-Keklak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
