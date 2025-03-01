@@ -1,4 +1,4 @@
-👋 Hi, I’m @Resplendent-Keklak, but you can call me literally anything.
+👋 Hi, I’m @Resplendent-Keklak (Erica J. Keklak).
 
 ALSO, I mainly work on the website editors for site front-end, so commits to site pages external to Github will not be shown here. I may add them as public backups in the future.
 <!--
